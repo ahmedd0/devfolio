@@ -8,6 +8,14 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+ul.sub-menu {
+    top: 0;
+    right: 100%;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
 /*  */
 .head-line {
     width: 40px;
