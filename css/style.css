@@ -531,6 +531,10 @@ footer h6 {
 
 /* MEDIIA QUERIES */
 @media (max-width:700px) {
+    header {
+        background-attachment: scroll;
+    }
+
     header .header-content .header-caption h1 {
         font-size: 50px;
 
